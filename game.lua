@@ -35,7 +35,7 @@ function scene:create(event)
     screenGroup:insert(ceiling)
     
 end
-
+beef
 function pointsUpdate()
 	points = points + 1
 	score.text = string.format("%d", points)
